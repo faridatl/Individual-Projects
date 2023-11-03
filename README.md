@@ -8,7 +8,7 @@ valuable insights and make informed decisions.
 Project 1: Stroke Prediction
 
   Objective: Predict whether a patient is likely to have a stroke.
-  Skills Demonstrated:
+  Skills Demonstrated: 
       Data cleaning: Handling missing values and outliers.
       EDA: Exploring patient behavior and identifying key features.
       Machine learning: Implementing supervised learning models.
