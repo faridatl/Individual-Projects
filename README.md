@@ -1,4 +1,4 @@
-### Project 1: Stroke Prediction
+## Stroke Prediction
 
   Objective: Implemented supervised learning models to predict whether a patient is likely to have a stroke or not based on collected features. Model performance is taken into account by comparing overall model accuracy, precision, and recall scores.
   
