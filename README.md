@@ -9,7 +9,8 @@ Interactive data exploration through visualizations like correlation matrices, p
 
 💡 Objective:
 
-  Our primary objective is to build accurate and reliable models that aid in early stroke detection. This repository serves as a valuable resource for understanding the application of machine learning in healthcare, promoting proactive health management.
+  Our main goal is to utilize supervised learning models to develop precise and dependable tools for early stroke detection, predicting the likelihood of a patient experiencing a stroke based on input features. This repository acts as a valuable reference for comprehending the integration of machine learning in healthcare, advocating for proactive health management.
+
 
 🛠️ Technologies Used:
 
@@ -48,8 +49,7 @@ Overall:
 🔗 Connect with Me:
 
 LinkedIn: [Your LinkedIn Profile]
-Twitter: [@YourTwitterHandle]
-Portfolio: [Your Portfolio Website]
+
 
 
 🌐 Explore the Project:
