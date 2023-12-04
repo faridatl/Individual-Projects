@@ -1,18 +1,17 @@
 ## Overview:
-
-  Welcome to the Stroke Prediction Project repository! This project focuses on utilizing machine learning algorithms to predict and analyze the likelihood of stroke occurrence, contributing to proactive healthcare strategies.
+* Welcome to the Stroke Prediction Project repository! This project focuses on utilizing machine learning algorithms to predict and analyze the likelihood of stroke occurrence, contributing to proactive healthcare strategies.
 
 
 ## 🔍 Key Features:
 
-  Rigorous data preprocessing, handling missing values and outliers, accurately categorizing attributes as either categorical or numerical and ensuring proper assignment. Exploring patient behavior and identifying key features through correlation maps, histograms, and plots.
+* Rigorous data preprocessing, handling missing values and outliers, accurately categorizing attributes as either categorical or numerical and ensuring proper assignment. Exploring patient behavior and identifying key features through correlation maps, histograms, and plots.
 Implementation of diverse supervised learning models, including Naive Bayes, Random Forest, K-Nearest Neighbors (KNN), and Decision Trees.
 Comprehensive evaluation metrics, including accuracy, precision, and recall, to assess and fine-tune predictive models.
 Interactive data exploration through visualizations like correlation matrices, pie charts, histograms, and plots.
 
 ## 💡 Objective:
 
-  Our main goal is to utilize supervised learning models to develop precise and dependable tools for early stroke detection, predicting the likelihood of a patient experiencing a stroke based on input features. This repository acts as a valuable reference for comprehending the integration of machine learning in healthcare, advocating for proactive health management.
+* Our main goal is to utilize supervised learning models to develop precise and dependable tools for early stroke detection, predicting the likelihood of a patient experiencing a stroke based on input features. This repository acts as a valuable reference for comprehending the integration of machine learning in healthcare, advocating for proactive health management.
 
 
 ## 🛠️ Technologies Used:
@@ -39,7 +38,7 @@ Jupyter Notebooks: Transparent and interactive documentation of the entire workf
 
 ## Conclusions:
 
-  K-Nearest Neighbors and Random Forest demonstrated strong performance, achieving an accuracy score of 95%. The Decision Tree followed closely with an accuracy of 91%, while Naïve Bayes yielded the lowest accuracy among the four classifiers, registering at 84%. The analysis reveals that both K-Nearest Neighbors (K-NN) and Random Forest achieved high accuracy scores, with Random Forest emerging as the preferable choice due to its faster computation time and superior handling of overfitting. However, if minimizing computation time is crucial, Naïve Bayes and the Decision Tree classifier present more efficient alternatives. Further investigation could delve into the reasons why a significant number of patients who experienced a stroke did not have heart disease, questioning the reliability of heart disease as an indicator for strokes. The collected data holds valuable insights for identifying critical features such as years of smoking and the presence of hypertension when dealing with patients at risk of stroke. This information can benefit hospitals and drug companies in developing targeted preventive measures based on gender, age, BMI, and other factors highlighted in the exploratory data analysis (EDA) findings.
+* K-Nearest Neighbors and Random Forest demonstrated strong performance, achieving an accuracy score of 95%. The Decision Tree followed closely with an accuracy of 91%, while Naïve Bayes yielded the lowest accuracy among the four classifiers, registering at 84%. The analysis reveals that both K-Nearest Neighbors (K-NN) and Random Forest achieved high accuracy scores, with Random Forest emerging as the preferable choice due to its faster computation time and superior handling of overfitting. However, if minimizing computation time is crucial, Naïve Bayes and the Decision Tree classifier present more efficient alternatives. Further investigation could delve into the reasons why a significant number of patients who experienced a stroke did not have heart disease, questioning the reliability of heart disease as an indicator for strokes. The collected data holds valuable insights for identifying critical features such as years of smoking and the presence of hypertension when dealing with patients at risk of stroke. This information can benefit hospitals and drug companies in developing targeted preventive measures based on gender, age, BMI, and other factors highlighted in the exploratory data analysis (EDA) findings.
 
 
 ## 🔗 Connect with Me:
