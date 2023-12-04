@@ -1,5 +1,6 @@
 ## Overview:
-* Welcome to the Stroke Prediction Project repository! This project focuses on utilizing machine learning algorithms to predict and analyze the likelihood of stroke occurrence, contributing to proactive healthcare strategies.
+
+Welcome to the Stroke Prediction Project repository! This project focuses on utilizing machine learning algorithms to predict and analyze the likelihood of stroke occurrence, contributing to proactive healthcare strategies.
 
 
 ## 🔍 Key Features:
