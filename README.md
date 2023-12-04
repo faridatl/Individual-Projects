@@ -5,10 +5,11 @@ Welcome to the Stroke Prediction Project repository! This project focuses on uti
 
 ## 🔍 Key Features:
 
-* Rigorous data preprocessing, handling missing values and outliers, accurately categorizing attributes as either categorical or numerical and ensuring proper assignment. Exploring patient behavior and identifying key features through correlation maps, histograms, and plots.
-Implementation of diverse supervised learning models, including Naive Bayes, Random Forest, K-Nearest Neighbors (KNN), and Decision Trees.
-Comprehensive evaluation metrics, including accuracy, precision, and recall, to assess and fine-tune predictive models.
-Interactive data exploration through visualizations like correlation matrices, pie charts, histograms, and plots.
+* Rigorous data preprocessing, handling missing values and outliers, accurately categorizing attributes as either categorical or numerical and ensuring proper assignment.
+*Exploring patient behavior and identifying key features through correlation maps, histograms, and plots.
+*Implementation of diverse supervised learning models, including Naive Bayes, Random Forest, K-Nearest Neighbors (KNN), and Decision Trees.
+*Comprehensive evaluation metrics, including accuracy, precision, and recall, to assess and fine-tune predictive models.
+*Interactive data exploration through visualizations like correlation matrices, pie charts, histograms, and plots.
 
 ## 💡 Objective:
 
