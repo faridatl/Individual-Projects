@@ -18,29 +18,23 @@ Interactive data exploration through visualizations like correlation matrices, p
 ## 🛠️ Technologies Used:
 
 Python: Leveraging the power of Pandas, NumPy, and Scikit-Learn.
+
 Jupyter Notebooks: Transparent and interactive documentation of the entire workflow.
 
 
 ## 📈 Results:
 
-Naive Bayes Classifier:
+**Naive Bayes Classifier:**
+* The findings reveal that the Multinomial Naive Bayes model achieved an overall accuracy of 84%, with a precision rate of 86% for correctly predicting stroke cases. Notably, the classifier demonstrated a high recall of 97%, indicating its effectiveness in correctly identifying the majority of stroke patients when they are present.
 
-  The findings reveal that the Multinomial Naive Bayes model achieved an overall accuracy of 84%, with a precision rate of 86% for correctly predicting stroke cases. Notably, the classifier demonstrated a high recall of 97%, indicating its effectiveness in correctly identifying the majority of stroke patients when they are present.
+**KNN Classifier:**
+* The findings indicate that the K-Nearest Neighbors (KNN) model achieved an impressive overall accuracy of 95%. Notably, the precision rate for predicting stroke cases is 100%, signifying that when the model predicts a patient to have a stroke, it is correct 100% of the time. Furthermore, the recall is 95%, demonstrating the model's ability to correctly identify 95% of all actual stroke patients, making it a robust classifier for stroke prediction.
 
+**Decision Tree:**
+* The findings reveal that the Decision Tree model achieved an accuracy of 91%. Notably, the precision for predicting stroke cases is 95%, indicating that when the model predicts a patient to have a stroke, it is correct 95% of the time. Additionally, the recall is 95%, demonstrating the model's effectiveness in correctly identifying 95% of all actual stroke patients. Overall, these results signify the robust performance of the Decision Tree classifier in stroke prediction.
 
-KNN Classifier:
-
-  The findings indicate that the K-Nearest Neighbors (KNN) model achieved an impressive overall accuracy of 95%. Notably, the precision rate for predicting stroke cases is 100%, signifying that when the model predicts a patient to have a stroke, it is correct 100% of the time. Furthermore, the recall is 95%, demonstrating the model's ability to correctly identify 95% of all actual stroke patients, making it a robust classifier for stroke prediction.
-
-
-Decision Tree:
-
-  The findings reveal that the Decision Tree model achieved an accuracy of 91%. Notably, the precision for predicting stroke cases is 95%, indicating that when the model predicts a patient to have a stroke, it is correct 95% of the time. Additionally, the recall is 95%, demonstrating the model's effectiveness in correctly identifying 95% of all actual stroke patients. Overall, these results signify the robust performance of the Decision Tree classifier in stroke prediction.
-
-
-Random Forest:
-
-  The findings indicate that the Random Forest model achieved a high accuracy of 95%. Specifically, the precision for predicting stroke cases is 100%, highlighting that when the model predicts a patient to have a stroke, it is correct 100% of the time. Moreover, the recall is 95%, demonstrating the model's efficacy in correctly identifying 95% of all actual stroke patients. These results underscore the robust and accurate performance of the Random Forest classifier in stroke prediction.
+**Random Forest:**
+* The findings indicate that the Random Forest model achieved a high accuracy of 95%. Specifically, the precision for predicting stroke cases is 100%, highlighting that when the model predicts a patient to have a stroke, it is correct 100% of the time. Moreover, the recall is 95%, demonstrating the model's efficacy in correctly identifying 95% of all actual stroke patients. These results underscore the robust and accurate performance of the Random Forest classifier in stroke prediction.
 
 
 ## Conclusions:
